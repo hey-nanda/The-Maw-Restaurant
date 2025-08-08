@@ -12,9 +12,9 @@ const mawCoords = [
 ];
 
 const mapImgs = [
-  "/src/img/img-location/the-maw-map-draw.png",
-  "/src/img/img-location/the-maw-map-mark.png",
-  "/src/img/img-location/the-maw-map.png"
+  "./src/img/img-location/the-maw-map-draw.png",
+  "./src/img/img-location/the-maw-map-mark.png",
+  "./src/img/img-location/the-maw-map.png"
 ];
 
 function getRandomImg(arr) {
